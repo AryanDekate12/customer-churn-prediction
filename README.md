@@ -18,10 +18,6 @@ optic internet is flagged as high risk.*
 *Same customer, switched to a two-year contract — predicted churn risk drops
 sharply, showing contract type is the dominant driver in this model.*
 
-> To add your own: create a `screenshots/` folder in this repo, upload your two
-> PNGs there, and rename them to `app_screenshot_1.png` and `app_screenshot_2.png`
-> (or update the filenames above to match whatever you name them).
-
 ## Problem Statement
 A subscription-based telecom company wants to identify customers likely to cancel
 their service (churn) so the retention team can intervene before they leave.
